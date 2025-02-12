@@ -5,7 +5,6 @@ The Weather App is a simple, user-friendly application designed to provide real-
 **Features**
 
      Current Weather:
-     
      Get real-time weather updates including temperature, humidity, wind speed, and more.
      
     Location Search:
