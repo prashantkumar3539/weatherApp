@@ -4,13 +4,20 @@ The Weather App is a simple, user-friendly application designed to provide real-
 
 **Features**
 
-**Current Weather:** Get real-time weather updates including temperature, humidity, wind speed, and more.
-
-
-**Location Search: **Search for weather information by city name, zip code, or even geographic coordinates.
-
-
-**Weather Icons:** Visual representation of weather conditions with intuitive icons.
-
-
-**Responsive Design: **The app is fully responsive and works seamlessly on both mobile and desktop devices.
+   ** Current Weather:** 
+   
+   Get real-time weather updates including temperature, humidity, wind speed, and more.
+    
+    
+    **Location Search:** 
+    
+    Search for weather information by city name, zip code, or even geographic coordinates.
+    
+    
+    **Weather Icons:**
+    
+    Visual representation of weather conditions with intuitive icons.
+    
+    
+    **esponsive Design: **
+    The app is fully responsive and works seamlessly on both mobile and desktop devices.
